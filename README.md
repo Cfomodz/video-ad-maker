@@ -1,1 +1,1 @@
-A program to generate a short video.
+A python script to programmatically generate a video
